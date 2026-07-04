@@ -93,3 +93,9 @@ It is an engineering and research portfolio. It does not provide financial advic
 - **Review Required:** repository overlap or provenance must be resolved before featuring
 
 **Portfolio status: In Progress**
+
+## Connect
+
+- [Medium](https://medium.com/@sirvanksc)
+- [LinkedIn](https://www.linkedin.com/in/srvnksc/)
+- [YouTube](https://www.youtube.com/@SirvanKesici)
